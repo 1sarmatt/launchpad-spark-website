@@ -13,7 +13,7 @@ const HeroSection = () => {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center animate-fade-in">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl mb-6">
-            Revolutionize Your Workflow with <span className="text-gradient">Startup</span>
+            Revolutionize Your Workflow with <span className="text-gradient">Luminia</span>
           </h1>
           <p className="text-lg leading-8 text-gray-600 mb-10">
             Our platform helps teams collaborate seamlessly, automate tasks, and achieve remarkable results. Join thousands of businesses already transforming their operations.
