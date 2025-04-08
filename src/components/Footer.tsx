@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="mx-auto max-w-7xl px-6 py-12 lg:px-8">
         <div className="grid grid-cols-2 gap-8 md:grid-cols-4">
           <div className="col-span-2 md:col-span-1">
-            <a href="#" className="text-xl font-bold">Luminia</a>
+            <a href="#" className="text-xl font-bold">Startup</a>
             <p className="mt-4 text-sm text-gray-300 max-w-xs">
               Empowering teams to achieve more through innovative collaboration tools.
             </p>
